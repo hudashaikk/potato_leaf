@@ -3,4 +3,4 @@ keras
 opencv_python_headless
 gdown
 numpy
-matplotlib.pyplot
+matplotlib
